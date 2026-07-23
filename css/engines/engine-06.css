@@ -1,0 +1,31 @@
+/* Engine 06: Supply Chain & Logistics */
+
+.engine-06-container {
+    background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);
+    background-attachment: fixed;
+}
+
+.engine-06-accent {
+    color: #30cfd0;
+}
+
+.engine-06-card {
+    border-left-color: #30cfd0;
+}
+
+.engine-06-card:hover {
+    box-shadow: 0 8px 20px rgba(48, 207, 208, 0.2);
+}
+
+.engine-06-badge {
+    background-color: #a7f3d0;
+    color: #0d472a;
+}
+
+.engine-06-btn {
+    background-color: #30cfd0;
+}
+
+.engine-06-btn:hover {
+    background-color: #06b6d4;
+}
